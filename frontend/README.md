@@ -45,7 +45,7 @@ A full stack E-commerce Website built using React and Vite, in this eCommerce we
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mosesfamot/E-commerce-store-with-user-accounts.git
+   git clone https://github.com/Mosesfamot/E-commerce-store-with-user-accounts.git
    ```
 2. Navigate to the project directory:
    ```bash
