@@ -91,7 +91,7 @@ src/
 3. **Orisaremi Asushei Emmanuel**  
    LCU/UG/21/19796 - Computer Science  
 
-4. **Toluwalase Ifeoluwa Mercy**  
+4. **Toluwase Ifeoluwa Mercy**  
    LCU/UG/22/24602 - Computer Science  
 
 5. **Asulewon Dennis Olowo**  
